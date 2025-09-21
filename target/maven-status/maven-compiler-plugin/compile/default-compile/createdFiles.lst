@@ -1,0 +1,5 @@
+com/hackathon/controller/ContractController.class
+com/hackathon/contractsimplifier/util/FileParser.class
+com/hackathon/contractsimplifier/ContractSimplifierApplication.class
+com/hackathon/contractsimplifier/util/OpenAIClient.class
+com/hackathon/contractsimplifier/service/ContractService.class
